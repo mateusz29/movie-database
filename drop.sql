@@ -1,0 +1,16 @@
+DROP TABLE Fil_Fir;
+DROP TABLE Ga_Fil;
+DROP TABLE Wat_Fil;
+DROP TABLE Funkcja;
+DROP TABLE Aktorzy;
+DROP TABLE Osoba;
+DROP TABLE Firmy_produkcyjne;
+DROP TABLE Gatunki;
+DROP TABLE Watchlisty;
+DROP TABLE Komentarze;
+DROP TABLE W¹tki;
+DROP TABLE Oceny;
+DROP TABLE Filmy;
+DROP TABLE U¿ytkownicy;
+DROP TABLE Dummytable2;
+DROP TABLE Dummytable1;
